@@ -1,38 +1,6 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<title>Binary Options Reviews - We Investigate if Your recension is a Scam!</title>
-		<link rel="icon" type="image/png" href="assets/img/favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:700" />
-		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css?c=1419552893" />
-		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.responsive.css?c=1407964147" />
-		<link rel="stylesheet" type="text/css" href="assets/css/public.css?c=1420479140" />
-		<link rel="stylesheet" type="text/css" href="assets/css/public.responsive.css?c=1419554625" />
-		<style type="text/css">
-		html, body {
-			max-width: 100% !important;
-			overflow-x: hidden !important;
-		}
-		</style>
-	</head>
-	<body>
-		<div class="sticky-message">
-			<div class="text">
-				<a href="index.html">Hemasdasd</a> | 
-				<a href="lista.html">Recensioner</a> |	
-				<a href="#">Om Oss</a> |					
-				<a href="#">Kontakta Oss</a>
-			</div>
-		</div>
-		<div id="wrapper">
-			<a href="#">
-				<div class="logo"></div>
-			</a>
-
+﻿<?php
+include "inc/header.php"
+?>
 			<div class="vänster">
 				<div class="artikel drop-shadow">
 					<div class="title">Våran Recension Sida</div>
@@ -128,17 +96,6 @@ Det finns många olika varianter av Lorem Ipsum, men majoriteten av dessa har ä
 				<div class="box-space"></div>
 			</div>
 		</div><!-- /#wrapper -->
-		<div id="footer">
-			<div class="about">
-				<div class="left">
-                    Copyright © 2015 asdasd.com. All rights reserved.
-				</div>
-				<div class="right">
-					<a href="index.html">Hem</a> | 
-					<a href="#">Recensioner</a> | 
-					<a href="#">Kontakta oss</a> |
-				</div>
-			</div>
-		</div><!-- /#footer -->
-	</body>
-</html>
+		<?php
+include "inc/footer.php"
+?>

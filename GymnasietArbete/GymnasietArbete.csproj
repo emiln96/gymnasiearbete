@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="inc\header.php" />
+    <Content Include="inc\footer.php" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -79,9 +80,9 @@
     <Content Include="assets\img\mobile-logo.png" />
     <Content Include="assets\img\produkter.png" />
     <Content Include="assets\index.html" />
-    <Content Include="index.html" />
-    <Content Include="lista.html" />
-    <Content Include="recension.html" />
+    <None Include="index.php" />
+    <None Include="lista.php" />
+    <None Include="recension.php" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
